@@ -21,7 +21,7 @@ Based on python 3.5, pull requests for generalization are welcome :)
 Usage
 -------------
 
-Just `python3.5 downloader.py`
+Just run this is the command line `python3.5 downloader.py`
 
 The full list will be printed in that format:
 
