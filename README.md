@@ -15,8 +15,7 @@ Installation
 Based on python 3.5, pull requests for generalization are welcome :)
  1. Git Checkout
  2. cd the project folder
- 3. Install the project requirements with `pip install -r requirements.txt`
- 4. Use the tool as described in the Usage section.
+ 3. Install the project requirements with `pip install requests`
 
 Usage
 -------------
@@ -26,7 +25,7 @@ Just run this is the command line `python3.5 downloader.py`
 The full list will be printed in that format:
 
     ##############################
-    Possible course selections are: (course ID or the course name)
+    Possible course selections are: (choose course ID)
     0. Compilers
     1. Crypto
     2. DeepLearning
@@ -36,4 +35,4 @@ The full list will be printed in that format:
     etc...
     ##############################
 
-Just hit your selection id and watch the videos added to `<CourseName>` folder. Enjoy!
+Just type and hit enter with your selection id and watch the videos added to `<CourseName>` folder. Enjoy!
